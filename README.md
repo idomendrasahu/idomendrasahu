@@ -18,8 +18,6 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 -->
 
 
-<p align="left"> <a href="https://twitter.com/idomendrasahu" target="blank"><img src="https://img.shields.io/twitter/follow/idomendrasahu?logo=twitter&style=for-the-badge" alt="idomendrasahu" /></a> </p>
-
 - 📝 I regularly upload videos on [https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw](https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw)
 
 - 📫 How to reach me **domendrasahu911@gmail.com**
