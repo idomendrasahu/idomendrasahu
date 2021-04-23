@@ -18,10 +18,6 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idomendrasahu&label=Profile%20views&color=0e75b6&style=flat" alt="idomendrasahu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idomendrasahu" alt="idomendrasahu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/idomendrasahu" target="blank"><img src="https://img.shields.io/twitter/follow/idomendrasahu?logo=twitter&style=for-the-badge" alt="idomendrasahu" /></a> </p>
 
 - 📝 I regularly upload videos on [https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw](https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw)
