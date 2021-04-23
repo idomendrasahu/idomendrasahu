@@ -15,7 +15,6 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 - 😄 Pronouns: Video Creator,Youtuber,Leader and Creative
 - ⚡ Fun fact: The bravest thing I've ever done was opening of Youtube Channel.
 
--->
 
 
 - 📝 I regularly upload videos on [https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw](https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw)
