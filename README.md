@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there👋, I am Domendra Sahu  <img src="https://github.com/idomendrasahu/idomendrasahu/blob/main/ironman.gif" width="100"></h1> 
+<h1 align="left">Hi there👋, I am Domendra Sahu  <img src="ironman2.png" width="150"></h1> 
 
 <h3 align="center">I am pursuing BTECH Degree in Information Technology from Government Engineering College, Bilaspur. with unique,creative and innovative perception.</h3>
 
