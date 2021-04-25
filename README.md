@@ -28,9 +28,9 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 <p align="left">
 <a href="https://twitter.com/idomendrasahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="idomendrasahu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/idomendrasahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="idomendrasahu" height="30" width="40" /></a>
-<a href="https://fb.com/domendrasahuuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="domendrasahuuu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/idomendrasahu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="domendrasahuuu" height="30" width="40" /></a>
 <a href="https://instagram.com/idomendrasahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="idomendrasahu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr.domendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mr.domendra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw](https://www.youtube.com/channel/UCmtYfVhr45DHMQMa3tmImlw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mr.domendra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/idomendrasahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="idomendrasahu" height="30" width="40" /></a>
 </p>
 
