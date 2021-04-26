@@ -41,4 +41,3 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idomendrasahu&show_icons=true&locale=en" alt="idomendrasahu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idomendrasahu&" alt="idomendrasahu" /></p>
