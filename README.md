@@ -41,3 +41,11 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idomendrasahu&show_icons=true&locale=en" alt="idomendrasahu" /></p>
 
+</h3>
+<br>
+<img align="left" alt="Dog" width="" src="ironman.gif" />
+<img align="right" alt="Dog" width="" src="ironman.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/idomendrasahu/count.svg" />
+</p>
