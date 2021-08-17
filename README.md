@@ -22,7 +22,7 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 
 - 📫 How to reach me **domendrasahu911@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/presentation/d/107t4zkIlWVjcwEdVkPxcc1FW06vbh9lZBsC4AHG8Gms/edit?usp=sharing](https://docs.google.com/presentation/d/107t4zkIlWVjcwEdVkPxcc1FW06vbh9lZBsC4AHG8Gms/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CSdSWMUbTpgEiF-gbxnNvNGmb9XbODNx/view?usp=sharing](https://drive.google.com/file/d/1CSdSWMUbTpgEiF-gbxnNvNGmb9XbODNx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
